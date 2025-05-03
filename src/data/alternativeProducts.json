@@ -1,0 +1,26 @@
+
+[
+  {
+    "name": "Rico Boost",
+    "backgroundImage": "/lovable-uploads/217fd894-632c-4d47-9120-8afddf9ea774.png",
+    "originalPrice": "1780 Pesos",
+    "currentPrice": "890 Pesos",
+    "discount": "-50%",
+    "description": "Suplemento para mejorar la vitalidad masculina y el rendimiento sexual.",
+    "productUrl": "https://uh77c0533euh.axdsz.pro/?rid=-7EBNQCgQAAHBsIAYABgEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx"
+  },
+  {
+    "name": "Uroxel",
+    "backgroundImage": "/lovable-uploads/5ae805a6-b677-40e8-a8d4-8b3e9ad75f56.png",
+    "currentPrice": "Preço: 590 MXN",
+    "description": "Fórmula especial para el alivio de problemas urinarios y salud de la próstata.",
+    "productUrl": "https://82h2j.doctortrf.com/l"
+  },
+  {
+    "name": "Prostanorm Forte",
+    "backgroundImage": "/lovable-uploads/8060dd78-3545-48e2-a301-88d3c8fda0e9.png",
+    "currentPrice": "Preço: 790 MXN",
+    "description": "Suplemento avanzado para el tratamiento de la prostatitis y mejora del bienestar urinario.",
+    "productUrl": "https://w7qq4.doctortrf.com/l"
+  }
+]
